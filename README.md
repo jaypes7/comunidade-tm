@@ -1,8 +1,3 @@
-
-Built by https://www.blackbox.ai
-
----
-
 # Comunidade TM
 
 ## Project Overview
